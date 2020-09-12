@@ -6,6 +6,7 @@ Output_1 : Saving that dictionary
 Task_2: Write a python function to sort the words in a string
 Input_2: file path to saved dictionary
 Output_2: return the retrieved dictionary object
+Pickle library in Python can also be used for this purpose
 
 # Task 01
 dictionary_save = {
